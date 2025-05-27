@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java, Flask, React, AI/ML, and technical writing**
 
-- 📫 How to reach me **michaelbenedict0007b@gmail.com**
+- 📫 How to reach me **michaelbenedict.rentapalli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
