@@ -18,14 +18,16 @@
 
 ---
 
-## 🏆 Hackathon Wins
+## 🏆 Hackathon Track Record
 
 | Place | Event | Project | Scale |
 |-------|-------|---------|-------|
-| 🥇 1st | Zenith 2024 @ MLRIT | GenAI heart disease prediction (LLMs + NLP) | 300+ teams |
+| 🥇 1st | Zenith 2024 @ MLRIT | PulsePredict — GenAI heart disease detection | 300+ teams |
 | 🥈 2nd | Visionova 2025 @ Anurag University | NLP solution (AI domain) | 250+ teams |
-| 🏅 Finalist | MetaLoop 2023 | Unity AR/VR manufacturing project | Top 350 of 3000+ |
-
+| 4th | Zenith 2.0 @ MLRIT | SynchroCampus — campus collaboration platform | 200+ teams |
+| 5th | HackVibe @ VITS Hyderabad | NyayaRaksha — AI legal chatbot | 300+ teams |
+| Top 10 | AIGnite @ MRUH | EchoPersona | 100+ teams |
+| 🏅 Finalist | MetaLoop 2023 | Unity AR/VR manufacturing project | 3000+ entries |
 ---
 
 ## 🛠️ Tech Stack
